@@ -1,6 +1,6 @@
 //
 //  sum_integers.c
-//  PNG
+//  CSupport
 //
 //  Created by Hamed Hosseini on 12/1/24.
 //
